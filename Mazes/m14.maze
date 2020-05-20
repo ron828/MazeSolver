@@ -1,0 +1,14 @@
+Working maze with only 1 way out!!
+MaxSteps = 1000
+Rows = 10
+Cols = 10
+@         
+######### 
+          
+ #########
+          
+######### 
+          
+ #########
+         $
+##########

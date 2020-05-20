@@ -1,0 +1,12 @@
+Working maze with redundant 2 lines!!
+MaxSteps = 700
+Rows = 6
+Cols = 10
+########  
+# @# #$   
+# ##  ##  
+#      # #
+# # #### #
+##       #
+##  ##  ##
+##  ##  ##

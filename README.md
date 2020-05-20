@@ -1,0 +1,2 @@
+# MazeSolver
+ Blind maze solver

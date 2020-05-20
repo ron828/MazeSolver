@@ -1,0 +1,11 @@
+Working maze with 3 missing columns!!
+MaxSteps = 500
+Rows = 7
+Cols = 9
+######
+# @# #
+# ##  
+#     
+# # ##
+##$ # 
+#     
